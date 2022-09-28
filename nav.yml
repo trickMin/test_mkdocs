@@ -46,4 +46,4 @@ nav:
       - 版本发布流程: developer-guide/release.md
 
     - Blog:
-      - Posts: blog/index.md
+      - HangoBlogUrl: https://hango-io.github.io/
