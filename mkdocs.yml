@@ -6,7 +6,6 @@ repo_name: hango-gateway
 site_description: Hango Documentation
 extra_css:
   - stylesheets/extra.css
-edit_uri: https://github.com/loggie-io/docs/tree/main/docs/
 
 theme:
   name: material
